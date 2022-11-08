@@ -9,11 +9,12 @@
 - 🌱 I’m currently learning Machine Learning
 
 - 👯 I’m looking to collaborate on a Formula1 exclusive community platform for its enthusiasts. 
-- 💬 Ask me about Python, SQL, Data Vis, Data Analysis and Machine Learning 
+
+- 💬 Ask me about: Python, SQL, Data Visualization, Data Analysis and Machine Learning 
 
 - 📫 How to reach me: zecil.jain@gmail.com
 
-- 👨‍💻 All of my projects are available at [Zecil Jain Projects](https://github.com/zeciljain8197)
+- 👨‍💻 All of my projects are available at: [Zecil Jain Projects](https://github.com/zeciljain8197)
 
 - 😄 Pronouns: He/Him
 
