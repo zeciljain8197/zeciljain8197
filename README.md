@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzeciljain8197&label=Tourists&labelColor=%230e0a8a&countColor=%23d9e3f0&style=plastic&labelStyle=none)
+
 <!--
 **zeciljain8197/zeciljain8197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
