@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: zecil.jain@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://github.com/zeciljain8197]([https://github.com/zeciljain8197])
+- 👨‍💻 All of my projects are available at [https://github.com/zeciljain8197](https://github.com/zeciljain8197)
 
 - 😄 Pronouns: He/Him
 
