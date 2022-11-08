@@ -1,9 +1,10 @@
-<h1 align="center">Yo 👋, I'm Zecil</h1>
+<h1 align="center">Yahallo 👋, I'm Zecil</h1>
 <h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳</h3>
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzeciljain8197&label=Tourists&labelColor=%230e0a8a&countColor=%23d9e3f0&style=plastic&labelStyle=none)
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🌱 I’m currently learning Machine Learning
 
@@ -43,8 +44,6 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress" width="40" height="40"/> </a> 
 </p>
-   
-    
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeciljain8197&show_icons=true&locale=en&layout=compact" alt="zeciljain8197" /></p>
 
