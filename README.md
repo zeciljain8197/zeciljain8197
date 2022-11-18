@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Machine Learning
 
-- 👯 I’m looking to collaborate on a Formula1 exclusive community platform for its enthusiasts. 
+- 👯 Looking to collaborate on a Formula1 exclusive community platform for its enthusiasts. 
 
 - 💬 Ask me about: Python, SQL, Data Visualization, Data Analysis and Machine Learning 
 
