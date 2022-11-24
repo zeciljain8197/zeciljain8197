@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at: [Zecil Jain Projects](https://github.com/zeciljain8197)
 
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun fact: **A great playlist can make any day better instantly!**
 
 <h3 align="left">Connect with me:</h3>
