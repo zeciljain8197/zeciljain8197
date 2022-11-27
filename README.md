@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Data Analytics fundamentals and trying to implement them in real-world scenarios.
 
 - 👯 Looking to collaborate on a Formula1 exclusive community platform for its enthusiasts. 
 
