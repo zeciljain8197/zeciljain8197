@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: zecil.jain@gmail.com
 
-- 👨‍💻 All of my projects are available at: [Zecil Jain Projects](https://github.com/zeciljain8197)
+- 👨‍💻 You can visit my Portfolio Website here: [Zecil Jain Portfolio](https://portfolio8197.herokuapp.com/)
 
 - ⚡ Fun fact: **A great playlist can make any day better instantly!**
 
