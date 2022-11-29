@@ -48,8 +48,5 @@
 
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeciljain8197&show_icons=true&locale=en&layout=compact" alt="zeciljain8197" /></p>
 
-| ![](https://streak-stats.demolab.com?user=zeciljain8197&theme=github-dark-blue&hide_border=true&background=DD272700) | ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true) |
-
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&locale=en" alt="zeciljain8197" /></p>
-
-<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=zeciljain8197&" alt="zeciljain8197" /></p>
+| ![](https://streak-stats.demolab.com?user=zeciljain8197&theme=github-dark-blue&hide_border=true&background=DD272700) |
+| ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true) |
