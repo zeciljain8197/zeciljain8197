@@ -51,3 +51,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8)
+
+ ![](https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true)
