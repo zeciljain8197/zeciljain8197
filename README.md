@@ -52,4 +52,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8)
 
- ![](https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true)
+ 
+![](https://img.shields.io/github/followers/zeciljain8197?logoColor=blue&style=social)
+![](https://img.shields.io/github/stars/zeciljain8197?logoColor=blue&style=social)
+![](https://img.shields.io/badge/Telegram-zeciljain8197-blue?logo=telegram&style=social&logoColor=blue)
+
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
