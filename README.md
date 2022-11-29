@@ -51,3 +51,5 @@
 ![](https://streak-stats.demolab.com?user=zeciljain8197&theme=github-dark-blue&hide_border=true&background=DD272700)
 
 ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8)
