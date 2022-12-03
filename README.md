@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Machine Learning and Data Analytics fundamentals and trying to implement them in real-world scenarios.
 
-- 👯 Looking to collaborate on a Formula1 exclusive community platform for its enthusiasts. 
+- 👯 Looking to collaborate on a Assassins Creed exhaustive dataset creation. 
 
 - 💬 Ask me about: Python, SQL, Data Visualization, Data Analysis and Machine Learning 
 
