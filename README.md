@@ -1,4 +1,4 @@
-# <div style="text-align: center;">
+!<div style="text-align: center;">
     <div><img src="https://readme-typing-svg.herokuapp.com?font=&size=48&pause=1001&vCenter=true&width=1000&lines=Yahallo+👋+,+I'm+Zecil"></div>
 </div>
 <h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳</h3>
