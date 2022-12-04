@@ -20,9 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a https://twitter.com/ZecilJ8197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeciljain8197" height="30" width="40" /></a>
+<a href="https://twitter.com/ZecilJ8197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeciljain8197" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/zecil-jain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeciljain8197" height="30" width="40" /></a>
-<a https://www.kaggle.com/zeciljain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zeciljain8197" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/zeciljain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zeciljain8197" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zecil.jain.07"  target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40" height="40"></a>
+<a href="https://www.instagram.com/zeciljain7/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"></a>
+<a href="https://beacons.ai/zecilj" target="blank"><img align="center" src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="40" height="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
