@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=&size=40&pause=1001&vCenter=True&width=2000&lines=Yahallo+👋+,+I'm+Zecil">
+   <img src="https://readme-typing-svg.herokuapp.com?font=&size=48&pause=1001&vCenter=True&width=1000&lines=Yahallo+👋+,+I'm+Zecil">
 </div>
 <h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳</h3>
 
