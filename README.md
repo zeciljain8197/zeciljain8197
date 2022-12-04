@@ -1,6 +1,4 @@
-<div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=&size=45&pause=1001&vCenter=True&width=1000&lines=Yahallo+👋+,+I'm+Zecil">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Yahallo%2C+👋+I'm+Zecil)](https://git.io/typing-svg)
 <h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳</h3>
 
 
