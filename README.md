@@ -1,4 +1,4 @@
-# <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Yahallo+👋+,+I'm+Zecil"></h1>
+# <h1><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Yahallo+👋+,+I'm+Zecil"></h1>
 <h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳</h3>
 
 
