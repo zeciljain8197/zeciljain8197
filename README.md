@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=1500&pause=1500&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Yahallo%F0%9F%91%8B%2C+I'm+Zecil" alt="Typing SVG" /></a>
-<h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳</h3>
+<h3>A young and crazy aspiring Data Scientist from India 🇮🇳</h3>
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzeciljain8197&label=Views&labelColor=%230e0a8a&countColor=%23d9e3f0&style=plastic&labelStyle=none)
