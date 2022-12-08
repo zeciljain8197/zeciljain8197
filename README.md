@@ -81,13 +81,13 @@
   <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AAE7FF.svg?logo=TensorFlow&logoColor=white"></a>
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-DDF5FF.svg?logo=Keras&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-DDF5FF.svg?logo=PostgreSQL&logoColor=black"></a>
-
+  <a href="#"><img alt="PyTorch src="https://img.shields.io/badge/PyTorch-DDF5FF.svg?logo=PostgreSQL&logoColor=black"></a>
   
 #### 📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
 
   <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-99E2FF.svg?logo=sqlite&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-DDF5FF.svg?logo=PostgreSQL&logoColor=black"></a>
   
 #### 🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-0C1719?logo=intellij-idea&logoColor=white"></a>
