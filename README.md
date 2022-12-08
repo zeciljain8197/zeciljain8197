@@ -96,17 +96,21 @@
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-00498D.svg?logo=Ubuntu&logoColor=white"></a>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-00498D.svg?logo=Unity&logoColor=white"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-00498D.svg?logo=Wordpress&logoColor=white"></a>
-
+</p>
 
 <h3 align="center">📈 My Stats</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeciljain8917&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8)
-
-</p>
 
 ![](https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true)
  
