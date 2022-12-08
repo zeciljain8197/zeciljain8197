@@ -31,8 +31,7 @@
 </p>
 
 <h2 align="center">ML and Data Science Project</h2>
-    <a href="https://github.com/zeciljain8197/Health-Insurance-Cross-Sell-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=
-Health-Insurance-Cross-Sell-Prediction&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=2423ad&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
+    <a href="https://github.com/zeciljain8197/Health-Insurance-Cross-Sell-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Health-Insurance-Cross-Sell-Prediction&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=2423ad&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
     <a href="https://github.com/zeciljain8197/Prison-Break-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Prison-Break-Analysis&theme=react&bg_color=1F222E&title_color=795CB2&icon_color=100f61&hide_border=true&show_icons=false" alt="Prison Break Analysis"></a>
     <a href="https://github.com/zeciljain8197/Taxi-Tip-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Taxi-Tip-Prediction&theme=react&bg_color=1F222E&title_color=795CB2&icon_color=100f61&hide_border=true&show_icons=false" alt="Taxi Tip Prediction"></a>
     <a href="https://github.com/zeciljain8197/Rain-Prediction-in-Australia"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Rain-Prediction-in-Australia&theme=react&bg_color=1F222E&title_color=795CB2&icon_color=100f61&hide_border=true&show_icons=false" alt="Rain Prediction in Australia"></a>
