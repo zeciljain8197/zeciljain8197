@@ -107,8 +107,6 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8)
 
 ![](https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true)
