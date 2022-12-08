@@ -99,17 +99,6 @@
 </p>
 
 <h3 align="center">📈 My Stats</h3>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true" />
