@@ -38,16 +38,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+
 #### 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+<p align="center">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-00498D.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-00172D.svg?logo=R&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/CSS-00264D.svg?logo=CSS3&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-0052A2.svg?logo=HTML&logoColor=white"></a>
-  
+</p>
+
 #### 🧰 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀
+<p align="center">
   <a href="#"><img alt="DJango" src="https://img.shields.io/badge/DJango-000B18.svg?logo=DJango&logoColor=white"></a>
   <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-112933.svg?logo=Streamlit&logoColor=white"></a>
   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-193E4C.svg?logo=Selenium&logoColor=white"></a>
@@ -62,14 +65,17 @@
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-DDF5FF.svg?logo=Keras&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-DDF5FF.svg?logo=PyTorch&logoColor=black"></a>
   <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-4A8B99.svg?logo=OpenCV&logoColor=white"></a>
-  
-#### 📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
+</p>
 
+#### 📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
+<p align="center">
   <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-99E2FF.svg?logo=sqlite&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-DDF5FF.svg?logo=PostgreSQL&logoColor=black"></a>
-  
+</p>
+
 #### 🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
+<p align="center">
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-0C1719?logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white"></a>
