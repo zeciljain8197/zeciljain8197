@@ -75,13 +75,14 @@
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-225366.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2A677F.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-337C99.svg?logo=matplotlib-python&logoColor=white"></a>
-  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=Seaborn&logoColor=white"></a>
   <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-44A6CC.svg?logo=plotly&logoColor=white"></a>
   <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4CBBE5.svg?logo=scipy&logoColor=white"></a>
-  <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
+  <a href="#"><img alt="Sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AAE7FF.svg?logo=TensorFlow&logoColor=white"></a>
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-DDF5FF.svg?logo=Keras&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-DDF5FF.svg?logo=PyTorch&logoColor=black"></a>
+  <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-4A8B99.svg?logo=OpenCV&logoColor=white"></a>
   
 #### 📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
 
@@ -98,6 +99,9 @@
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4A8B99.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-63B9CC?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-89EAFF.svg?logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-4A8B99.svg?logo=Ubuntu&logoColor=white"></a>
+  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-4A8B99.svg?logo=Unity&logoColor=white"></a>
+  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-4A8B99.svg?logo=Wordpress&logoColor=white"></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
 
