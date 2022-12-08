@@ -30,6 +30,9 @@
 <a href="https://beacons.ai/zecilj" target="blank"><img align="center" src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="40" height="40"></a>
 </p>
 
+<h3 align="left">ML and Data Science Project</h3>
+ <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -50,7 +53,6 @@
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
 </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zeciljain8197&custom_title=Zecil's%20Github%20Activity%20Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
 
