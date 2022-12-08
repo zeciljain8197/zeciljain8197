@@ -98,7 +98,7 @@
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-00498D.svg?logo=Wordpress&logoColor=white"></a>
 </p>
 
-<h3 align="center">📈 My Stats</h3>
+<h2 align="left">📈 My Stats</h2>
 
 <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true" />
