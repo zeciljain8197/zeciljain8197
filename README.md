@@ -81,7 +81,7 @@
   <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AAE7FF.svg?logo=TensorFlow&logoColor=white"></a>
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-DDF5FF.svg?logo=Keras&logoColor=white"></a>
-  <a href="#"><img alt="PyData" src="https://img.shields.io/badge/PyData-DDF5FF.svg?logo=PyData&logoColor=black"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-DDF5FF.svg?logo=PostgreSQL&logoColor=black"></a>
 
   
 #### 📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
