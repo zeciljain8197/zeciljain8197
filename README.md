@@ -96,7 +96,6 @@
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-00498D.svg?logo=Ubuntu&logoColor=white"></a>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-00498D.svg?logo=Unity&logoColor=white"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-00498D.svg?logo=Wordpress&logoColor=white"></a>
-</p>
 
 
 <h3 align="center">📈 My Stats</h3>
@@ -106,7 +105,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8)
-  
+
+</p>
+
 ![](https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true)
  
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
