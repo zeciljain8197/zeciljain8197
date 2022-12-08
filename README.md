@@ -101,7 +101,7 @@
 <h3 align="center">📈 My Stats</h3>
 <picture align="center">
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
