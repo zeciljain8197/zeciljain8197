@@ -90,9 +90,9 @@
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-4A8B99.svg?logo=Wordpress&logoColor=white"></a>
 </p>
 
-</p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
-
+  
+</p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8)
