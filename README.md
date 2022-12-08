@@ -20,8 +20,8 @@
 
 - ⚡ Fun fact: **A great playlist can make any day better instantly!**
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
+<h2 align="left">Connect with me:</h2>
+<p align="left">
 <a href="https://twitter.com/ZecilJ8197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeciljain8197" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/zecil-jain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeciljain8197" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/zeciljain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zeciljain8197" height="40" width="40" /></a>
@@ -31,8 +31,8 @@
 </p>
 
 
-<h2 align="center">ML and Data Science Project</h2>
-<p align="center">
+<h2 align="left">ML and Data Science Project</h2>
+<p align="left">
     <a href="https://github.com/zeciljain8197/Health-Insurance-Cross-Sell-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Health-Insurance-Cross-Sell-Prediction&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=2423ad&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
     <a href="https://github.com/zeciljain8197/Prison-Break-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Prison-Break-Analysis&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Prison Break Analysis"></a>
     <a href="https://github.com/zeciljain8197/Taxi-Tip-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Taxi-Tip-Prediction&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Taxi Tip Prediction"></a>
@@ -47,10 +47,10 @@
 </p>
 
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 
-<h3 align="center">💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
-<p align="center">
+<h3 align="left">💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
+<p align="left">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-00498D.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-00498D.svg?logo=markdown&logoColor=white"></a>
   <a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-00498D.svg?logo=R&logoColor=white"></a>
@@ -59,8 +59,8 @@
   <a href="#"><img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-00498D.svg?logo=HTML&logoColor=white"></a>
 </p>
 
-<h3 align="center">🧰 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀</h3>
-<p align="center">
+<h3 align="left">🧰 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀</h3>
+<p align="left">
   <a href="#"><img alt="DJango" src="https://img.shields.io/badge/DJango-00498D.svg?logo=DJango&logoColor=white"></a>
   <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-00498D.svg?logo=Streamlit&logoColor=white"></a>
   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-00498D.svg?logo=Selenium&logoColor=white"></a>
@@ -77,15 +77,15 @@
   <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-00498D.svg?logo=OpenCV&logoColor=white"></a>
 </p>
 
-<h3 align="center">📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</h3>
-<p align="center">
+<h3 align="left">📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</h3>
+<p align="left">
   <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-00498D.svg?logo=sqlite&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00498D.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-00498D.svg?logo=PostgreSQL&logoColor=white"></a>
 </p>
 
-<h3 align="center">🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h3>
-<p align="center">
+<h3 align="left">🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h3>
+<p align="left">
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-00498D?logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-00498D.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-00498D.svg?logo=tableau&logoColor=white"></a>
