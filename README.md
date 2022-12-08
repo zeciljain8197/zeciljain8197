@@ -75,7 +75,7 @@
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-DDF5FF.svg?logo=PostgreSQL&logoColor=black"></a>
 </p>
 
-<h3 align="center">🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀<>/h3
+<h3 align="center">🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h3>
 <p align="center">
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-0C1719?logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
