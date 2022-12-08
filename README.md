@@ -42,7 +42,7 @@
     <a href="https://github.com/zeciljain8197/LGMVIP--DataScience_Task_Repo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=LGMVIP--DataScience_Task_Repo&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="LGMVIP--DataScience_Task_Repo"></a>
   </p>
   
-<p align="center">
+<p align="left">
   <a href="https://github.com/zeciljain8197?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
