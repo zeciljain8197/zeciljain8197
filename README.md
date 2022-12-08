@@ -88,9 +88,6 @@
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-4A8B99.svg?logo=Ubuntu&logoColor=white"></a>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-4A8B99.svg?logo=Unity&logoColor=white"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-4A8B99.svg?logo=Wordpress&logoColor=white"></a>
-</p>
-
-<p align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
 
