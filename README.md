@@ -20,8 +20,8 @@
 
 - ⚡ Fun fact: **A great playlist can make any day better instantly!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/ZecilJ8197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeciljain8197" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/zecil-jain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeciljain8197" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/zeciljain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zeciljain8197" height="40" width="40" /></a>
@@ -30,14 +30,15 @@
 <a href="https://beacons.ai/zecilj" target="blank"><img align="center" src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="40" height="40"></a>
 </p>
 
-<h3 align="left">ML and Data Science Project</h3>
- <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
+<h3 align="center">ML and Data Science Project</h3>
+    <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=100f61&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
+    <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=100f61&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 #### 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 <p align="center">
