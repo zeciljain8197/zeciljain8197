@@ -109,9 +109,8 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8" />
 </a>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8)
-
-![](https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true)
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true" />
+</a>
  
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
