@@ -31,7 +31,7 @@
 </p>
 
 <h2 align="center">ML and Data Science Project</h2>
-    <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=100f61&icon_color=100f61&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
+    <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=2423ad&icon_color=2423ad&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
     <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=100f61&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
 
 <p align="center">
