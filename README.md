@@ -103,6 +103,9 @@
 <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true" />
 </a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true" />
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
