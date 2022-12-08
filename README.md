@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: zecil.jain@gmail.com
 
-- 👨‍💻 You can visit my Portfolio Website here: [Zecil Jain Portfolio](https://portfolio8197.herokuapp.com/)
+- 👨‍💻 You can visit my Portfolio Website here: [Zecil Jain Portfolio](https://zecil-jain-portfolio-website.streamlit.app/)
 
 - ⚡ Fun fact: **A great playlist can make any day better instantly!**
 
@@ -32,7 +32,7 @@
 
 <h2 align="center">ML and Data Science Project</h2>
     <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=3366CC&icon_color=2423ad&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
-    <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=100f61&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
+    <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=795CB2&icon_color=100f61&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
 
 <p align="center">
   <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
