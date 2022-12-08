@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: **A great playlist can make any day better instantly!**
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/ZecilJ8197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeciljain8197" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/zecil-jain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeciljain8197" height="40" width="40" /></a>
@@ -30,7 +30,7 @@
 <a href="https://beacons.ai/zecilj" target="blank"><img align="center" src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="40" height="40"></a>
 </p>
 
-<h3 align="center">ML and Data Science Project</h3>
+<h2 align="center">ML and Data Science Project</h2>
     <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=100f61&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
     <a href="https://github.com/zeciljain8197/Data-Science-Projects/tree/main/Health%20Insurance%20Cross-Sell%20Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Data-Science-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=100f61&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
 
@@ -38,9 +38,9 @@
   <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
-<h4 align="center">💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h4>
+<h3 align="center">💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
 <p align="center">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-00498D.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -50,7 +50,7 @@
   <a href="#"><img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-0052A2.svg?logo=HTML&logoColor=white"></a>
 </p>
 
-#### 🧰 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀
+<h3 align="center">🧰 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀</h3>
 <p align="center">
   <a href="#"><img alt="DJango" src="https://img.shields.io/badge/DJango-000B18.svg?logo=DJango&logoColor=white"></a>
   <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-112933.svg?logo=Streamlit&logoColor=white"></a>
@@ -68,14 +68,14 @@
   <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-4A8B99.svg?logo=OpenCV&logoColor=white"></a>
 </p>
 
-#### 📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
+<h3 align="center">📊 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</h3>
 <p align="center">
   <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-99E2FF.svg?logo=sqlite&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-DDF5FF.svg?logo=PostgreSQL&logoColor=black"></a>
 </p>
 
-#### 🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
+<h3 align="center">🛠️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀<>/h3
 <p align="center">
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-0C1719?logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
@@ -90,11 +90,13 @@
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-4A8B99.svg?logo=Wordpress&logoColor=white"></a>
 </p>
 
+</p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8)
+</p>
 
 ![](https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true)
  
