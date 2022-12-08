@@ -39,7 +39,9 @@
     <a href="https://github.com/zeciljain8197/Credit-Card-Fraud-Detection"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Credit-Card-Fraud-Detection&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Credit Card Fraud Detection"></a>
     <a href="https://github.com/zeciljain8197/Analysis-of-a-Wine-Tasting-Dataset"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Analysis-of-a-Wine-Tasting-Dataset&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Analysis of a Wine Tasting Dataset"></a>
     <a href="https://github.com/zeciljain8197/LGMVIP--DataScience_Task_Repo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=LGMVIP--DataScience_Task_Repo&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="LGMVIP--DataScience_Task_Repo"></a>
-
+  </p>
+  
+<p align="center">
   <a href="https://github.com/zeciljain8197?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
@@ -94,7 +96,9 @@
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-00498D.svg?logo=Wordpress&logoColor=white"></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
+
+<h3 align="center">📈 My Stats</h3>
+<p align="center">![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
