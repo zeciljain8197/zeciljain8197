@@ -31,7 +31,7 @@
 </p>
 
 
-<h2 align="left">ML and Data Science Project</h2>
+<h2 align="left">ML and Data Science Projects</h2>
 <p align="left">
   <a href="https://github.com/zeciljain8197/Health-Insurance-Cross-Sell-Prediction"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Health-Insurance-Cross-Sell-Prediction&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=2423ad&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
     <a href="https://github.com/zeciljain8197/Prison-Break-Analysis"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Prison-Break-Analysis&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Prison Break Analysis"></a>
@@ -40,8 +40,16 @@
     <a href="https://github.com/zeciljain8197/Credit-Card-Fraud-Detection"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Credit-Card-Fraud-Detection&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Credit Card Fraud Detection"></a>
     <a href="https://github.com/zeciljain8197/Analysis-of-a-Wine-Tasting-Dataset"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Analysis-of-a-Wine-Tasting-Dataset&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Analysis of a Wine Tasting Dataset"></a>
     <a href="https://github.com/zeciljain8197/LGMVIP--DataScience_Task_Repo"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=LGMVIP--DataScience_Task_Repo&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="LGMVIP--DataScience_Task_Repo"></a>
-  </p>
-  
+      <a href="https://github.com/zeciljain8197/Book-Sentiment-Analysis"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Book-Sentiment-Analysis&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Book-Sentiment-Analysis"></a>
+</p>
+
+<h2 align="left">Personal Project</h2>
+      <a href="https://github.com/zeciljain8197/Weather-Forecast-API"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Weather-Forecast-API&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Weather-Forecast-API"></a>
+      <a href="https://github.com/zeciljain8197/Email-Webcam-Object-Detection"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Email-Webcam-Object-Detection&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Email-Webcam-Object-Detection"></a>
+      <a href="https://github.com/zeciljain8197/Web-Scraping-Musical-Events"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Web-Scraping-Musical-Events&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Web-Scraping-Musical-Events"></a>
+      <a href="https://github.com/zeciljain8197/Mini-Python-projects"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Mini-Python-projects&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Mini-Python-projects"></a>
+      <a href="https://github.com/zeciljain8197/Portfolio_Website"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Portfolio_Website&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Portfolio_Website"></a>
+      
 <p align="left">
   <a href="https://github.com/zeciljain8197?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
