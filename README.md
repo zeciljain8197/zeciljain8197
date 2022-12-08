@@ -30,6 +30,7 @@
 <a href="https://beacons.ai/zecilj" target="blank"><img align="center" src="https://cdn.beacons.ai/user_content/AHnOl9MMnuMm1Z7JLxNaIU5g9qU2/profile_beacons.png?t=1636242247083" width="40" height="40"></a>
 </p>
 
+
 <h2 align="center">ML and Data Science Project</h2>
 <p align="center">
     <a href="https://github.com/zeciljain8197/Health-Insurance-Cross-Sell-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Health-Insurance-Cross-Sell-Prediction&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=2423ad&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
@@ -44,6 +45,7 @@
 <p align="center">
   <a href="https://github.com/zeciljain8197?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
 
 <h2 align="center">Languages and Tools:</h2>
 
@@ -98,7 +100,7 @@
 
 
 <h3 align="center">📈 My Stats</h3>
-<p align="center">![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)</p>
+![](https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
