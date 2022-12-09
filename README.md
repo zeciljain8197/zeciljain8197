@@ -66,6 +66,8 @@
   <a href="#"><img alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/CSS-00498D.svg?logo=CSS3&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-00498D.svg?logo=database&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-00498D.svg?logo=HTML&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-00498D.svg?logo=Java&logoColor=white"></a>
+  <a href="#"><img alt="Shell" src="https://custom-icon-badges.herokuapp.com/badge/Shell-00498D.svg?logo=Shell&logoColor=white"></a>
 </p>
 
 <h3 align="left">🧰 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀</h3>
