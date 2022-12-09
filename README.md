@@ -61,7 +61,6 @@
 <h3 align="left">💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
 <p align="left">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-00498D.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-00498D.svg?logo=markdown&logoColor=white"></a>
   <a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-00498D.svg?logo=R&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/CSS-00498D.svg?logo=CSS3&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-00498D.svg?logo=database&logoColor=white"></a>
