@@ -31,7 +31,7 @@
 </p>
 
 
-<h2 align="left">ML and Data Science Projects</h2>
+<h2 align="left">ML and Data Science Data Analytics Projects</h2>
 <p align="left">
   <a href="https://github.com/zeciljain8197/Health-Insurance-Cross-Sell-Prediction"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Health-Insurance-Cross-Sell-Prediction&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=2423ad&hide_border=true&show_icons=false" alt="Health Insurance Cross-Sell Prediction"></a>
     <a href="https://github.com/zeciljain8197/Prison-Break-Analysis"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Prison-Break-Analysis&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Prison Break Analysis"></a>
