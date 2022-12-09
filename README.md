@@ -41,6 +41,7 @@
     <a href="https://github.com/zeciljain8197/Analysis-of-a-Wine-Tasting-Dataset"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Analysis-of-a-Wine-Tasting-Dataset&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Analysis of a Wine Tasting Dataset"></a>
     <a href="https://github.com/zeciljain8197/LGMVIP--DataScience_Task_Repo"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=LGMVIP--DataScience_Task_Repo&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="LGMVIP--DataScience_Task_Repo"></a>
       <a href="https://github.com/zeciljain8197/Book-Sentiment-Analysis"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Book-Sentiment-Analysis&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Book-Sentiment-Analysis"></a>
+      <a href="https://github.com/zeciljain8197/Python-course-review-analysis"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=zeciljain8197&repo=Python-course-review-analysis&theme=react&bg_color=1F222E&title_color=1d92e0&icon_color=100f61&hide_border=true&show_icons=false" alt="Python-course-review-analysis"></a>
 </p>
 
 <h2 align="left">Personal Project</h2>
