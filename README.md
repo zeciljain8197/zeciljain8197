@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🌱 I’m currently learning Machine Learning and Data Analytics fundamentals and trying to implement them in real-world scenarios.
+- 🌱 I’m currently learning Machine Learning as well as Data Analytics fundamentals and trying to implement them on real-world problems.
 
 - 👯 Looking to collaborate on an Assassins Creed Game Series exhaustive dataset creation. 
 
