@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Yahallo%F0%9F%91%8B;I'm+Zecil&font=Fira%20Code&center=true&width=390&height=95&size=60&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Yahallo!!%F0%9F%91%8B;I'm+Zecil&font=Fira%20Code&center=true&width=390&height=95&size=60&duration=4000&pause=1000">
 </p>
 <h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳</h3>
 
