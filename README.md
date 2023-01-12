@@ -12,7 +12,7 @@
 
 - 👯 Looking to collaborate on an Assassins Creed Game Series exhaustive dataset creation. 
 
-- 💬 Ask me about: Python, SQL, Data Visualization, Data Analysis and Machine Learning 
+- 💬 Ask me about: Python, SQL, Data Visualization, Data Analytics and Machine Learning. 
 
 - 📫 How to reach me: zecil.jain@gmail.com
 
