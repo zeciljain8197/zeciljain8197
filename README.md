@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Machine Learning as well as Data Analytics fundamentals and trying to implement them on real-world problems.
 
-- 👯 Looking to collaborate on an Assassins Creed Game Series exhaustive dataset creation. 
+- 👯 Eagerly looking to collaborate on an Assassins Creed Game Series exhaustive dataset creation. 
 
 - 💬 Ask me about: Python, SQL, Data Visualization, Data Analytics and Machine Learning. 
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 You can visit my Portfolio Website here: [Zecil Jain Portfolio](https://zecil-jain-portfolio-website.streamlit.app/)
 
-- ⚡ Fun fact: **A great playlist can make any day better instantly!**
+- ⚡ Fun fact: **Bugs are stepping stones towards greatness, carefully overcome each of them and you will be unstoppable!**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
