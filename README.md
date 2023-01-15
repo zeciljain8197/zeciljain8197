@@ -18,7 +18,7 @@
 
 - 👨‍💻 You can visit my Portfolio Website here: [Zecil Jain Portfolio](https://zecil-jain-portfolio-website.streamlit.app/)
 
-- ⚡ Fun fact: **Bugs are stepping stones towards greatness, carefully overcome each of them and you will be unstoppable!**
+- ⚡ Fun fact: **Debugging is not for weak hearted ones!**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
