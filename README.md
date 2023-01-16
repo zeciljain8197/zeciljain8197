@@ -18,7 +18,7 @@
 
 - 👨‍💻 You can visit my Portfolio Website here: [Zecil Jain Portfolio](https://zecil-jain-portfolio-website.streamlit.app/)
 
-- ⚡ Fun fact: **Debugging is not for weak hearted ones!**
+- ⚡ Fun fact: **Debugging is a gift that keeps giving!**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
