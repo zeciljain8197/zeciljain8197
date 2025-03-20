@@ -1,20 +1,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Yahallo!!%F0%9F%91%8B;I'm+Zecil&font=Fira%20Code&center=true&width=410&height=95&size=60&duration=4000&pause=1000">
 </p>
-<h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳</h3>
+<h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳 currently based in Arlington, Texas/h3>
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzeciljain8197&label=Views&labelColor=%230e0a8a&countColor=%23d9e3f0&style=plastic&labelStyle=none)
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🌱 I’m currently learning Machine Learning as well as Data Analytics fundamentals and trying to implement them on real-world problems.
+- 🌱 I’m currently pursuing my MS in Comp Sci at University of Texas, Arlington.
 
 - 👯 Eagerly looking to collaborate on an Assassins Creed Game Series exhaustive dataset creation. 
 
 - 💬 Ask me about: Python, SQL, Data Visualization, Data Analytics and Machine Learning. 
 
-- 📫 How to reach me: zecil.jain@gmail.com
+- 📫 How to reach me: zecilyjain2000@gmail.com
 
 - 👨‍💻 You can visit my Portfolio Website here: [Zecil Jain Portfolio](https://zecil-jain-portfolio-website.streamlit.app/)
 
