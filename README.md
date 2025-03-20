@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Yahallo!!%F0%9F%91%8B;I'm+Zecil&font=Fira%20Code&center=true&width=410&height=95&size=60&duration=4000&pause=1000">
 </p>
-<h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳 currently based in Arlington, Texas/h3>
+<h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳, currently based in Arlington, Texas. /h3>
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzeciljain8197&label=Views&labelColor=%230e0a8a&countColor=%23d9e3f0&style=plastic&labelStyle=none)
