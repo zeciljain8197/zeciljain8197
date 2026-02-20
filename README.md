@@ -121,17 +121,34 @@ I am passionate about bridging the gap between raw data and human-centric soluti
 
 <h2 align="left">📈 My Stats</h2>
 
-<a href="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=transparent&hide_border=true" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com/?user=zeciljain8197&theme=tokyonight_duo&hide_border=true" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&hide_border=true&theme=transparent&layout=compact&langs_count=8" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=zeciljain8197&column=-1&theme=radical&no-bg=true&no-frame=true" />
-</a>
- 
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<h2 align="left">📈 My Stats</h2>
+
+<p align="left">
+  <a href="https://github.com/zeciljain8197">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=react&hide_border=true&title_color=1d92e0&icon_color=2423ad" alt="Zecil's GitHub Stats" />
+  </a>
+</p>
+<br/>
+
+<p align="left">
+  <a href="https://github.com/zeciljain8197">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeciljain8197&layout=compact&theme=react&hide_border=true&title_color=1d92e0" alt="Top Languages" />
+  </a>
+</p>
+<br/>
+
+<p align="left">
+  <a href="https://github.com/zeciljain8197">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeciljain8197&theme=react&hide_border=true&stroke=1d92e0&ring=1d92e0" alt="GitHub Streak" />
+  </a>
+</p>
+<br/>
+
+<p align="left">
+  <a href="https://github.com/zeciljain8197">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=zeciljain8197&theme=dracula&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
