@@ -119,16 +119,7 @@ I am passionate about bridging the gap between raw data and human-centric soluti
   <a href="#"><img alt="VectorDB" src="https://img.shields.io/badge/Vector_Databases-00498D.svg?logo=databricks&logoColor=white"></a>
 </p>
 
-<h2 align="left">📈 My Stats</h2>
-
-<h2 align="left">📈 My Stats</h2>
-
-<p align="left">
-  <a href="https://github.com/zeciljain8197">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&theme=react&hide_border=true&title_color=1d92e0&icon_color=2423ad" alt="Zecil's GitHub Stats" />
-  </a>
-</p>
-<br/>
+<!-- <h2 align="left">📈 My Stats</h2>
 
 <p align="left">
   <a href="https://github.com/zeciljain8197">
@@ -150,5 +141,5 @@ I am passionate about bridging the gap between raw data and human-centric soluti
   </a>
 </p>
 
-<br/>
+<br/> -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
