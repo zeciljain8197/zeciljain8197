@@ -1,24 +1,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Yahallo!!%F0%9F%91%8B;I'm+Zecil&font=Fira%20Code&center=true&width=410&height=95&size=60&duration=4000&pause=1000">
 </p>
-<h3 align="center">A young and crazy aspiring Data Scientist from India 🇮🇳, currently based in Arlington, Texas. </h3>
 
+<h3 align="center">Data Scientist & GenAI Developer | MS in CS @ UT Arlington 🐎</h3>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzeciljain8197&label=Views&labelColor=%230e0a8a&countColor=%23d9e3f0&style=plastic&labelStyle=none)
+<p align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzeciljain8197&label=Views&labelColor=%230e0a8a&countColor=%23d9e3f0&style=plastic" alt="Visitors">
+</p>
 
-<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
+Hi! I’m **Zecil Jain** — a Computer Science graduate student at UT Arlington specializing in **Generative AI** and **Applied Machine Learning**. 
 
-- 🌱 I’m currently pursuing my MS in Comp Sci at University of Texas, Arlington.
+I am passionate about bridging the gap between raw data and human-centric solutions. Currently, my focus is on building intelligent systems that assist users in real-world scenarios through advanced AI.
 
-- 👯 Eagerly looking to collaborate on an Assassins Creed Game Series exhaustive dataset creation. 
+🚀 **What am I currently working on?**
+* **RAG (Retrieval-Augmented Generation):** Developing robust pipelines for context-aware AI.
+* **Assistive Technologies:** Researching and implementing AI-driven tools for accessibility and real-world impact.
+* **Generative AI:** Building applications with LLMs (GPT-4, Llama 3) and Agentic frameworks.
+* **Vector Databases:** Optimizing semantic search using FAISS and ChromaDB.
 
-- 💬 Ask me about: Python, SQL, Data Visualization, Data Analytics and Machine Learning. 
-
-- 📫 How to reach me: zecilyjain2000@gmail.com
-
-- 👨‍💻 You can visit my Portfolio Website here: [Zecil Jain Portfolio](https://zecil-jain-portfolio-website.streamlit.app/)
-
-- ⚡ Fun fact: **Debugging is a gift that keeps giving!**
+💬 **Ask me about:** Python, RAG Architectures, Data Analytics, and GenAI.
+👨‍💻 **Portfolio:** [Zecil Jain Portfolio](https://zecil-jain-portfolio-website.streamlit.app/)
+⚡ **Fun fact:** Debugging is a gift that keeps giving!
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -106,6 +108,15 @@
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-00498D.svg?logo=Ubuntu&logoColor=white"></a>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-00498D.svg?logo=Unity&logoColor=white"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-00498D.svg?logo=Wordpress&logoColor=white"></a>
+</p>
+
+<h3 align="left">🤖 Generative AI & LLMs</h3>
+<p align="left">
+  <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-00498D.svg?logo=langchain&logoColor=white"></a>
+  <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-00498D.svg?logo=openai&logoColor=white"></a>
+  <a href="#"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-00498D.svg?logo=huggingface&logoColor=white"></a>
+  <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG_Pipelines-00498D.svg?logo=lightning&logoColor=white"></a>
+  <a href="#"><img alt="VectorDB" src="https://img.shields.io/badge/Vector_Databases-00498D.svg?logo=databricks&logoColor=white"></a>
 </p>
 
 <h2 align="left">📈 My Stats</h2>
